@@ -1,4 +1,4 @@
-package com.ashish.Thread;
+package com.ashish.java.Thread;
 
 import java.util.ArrayList;
 import java.util.List;

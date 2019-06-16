@@ -1,4 +1,4 @@
-package com.ashish.Thread;
+package com.ashish.java.Thread;
 
 /**
  * wait and notify alwasy use in resources not in Produce and consumer Thread,

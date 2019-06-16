@@ -1,4 +1,4 @@
-package com.ashish.general;
+package com.ashish.java.general;
 
 class Test {
 	public void sendData(Object s) {

@@ -1,4 +1,4 @@
-package com.ashish.general;
+package com.ashish.java.general;
 
 import java.util.*;
 
