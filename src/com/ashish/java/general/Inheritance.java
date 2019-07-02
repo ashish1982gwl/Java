@@ -21,8 +21,7 @@ public class Inheritance {
 		Child.show();
 		
 		Parent Parent1=new Child();
-		
-		Parent1.show();
+	    Parent1.show();
 	}
 
 }

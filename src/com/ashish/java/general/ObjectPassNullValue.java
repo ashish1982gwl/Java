@@ -21,7 +21,6 @@ class Test {
 public class ObjectPassNullValue {
 	public static void main(String a[]) {
 		Test test = new Test();
-
 		test.sendData(null);
 	}
 

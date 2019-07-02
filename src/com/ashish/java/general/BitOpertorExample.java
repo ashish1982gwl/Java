@@ -1,9 +1,25 @@
 package com.ashish.java.general;
 
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Hashtable;
+import java.util.Map;
+import java.util.Set;
+import java.util.TreeSet;
+
 public class BitOpertorExample {
 	public static void main(String aa[]) {
-		two();
-		three();
+		
+		class inner{
+			final int i=2;
+			int j=3;
+			inner(){
+				System.out.println(i+j);
+
+			}
+		}
+
 	}
 
 	public static void two() {
